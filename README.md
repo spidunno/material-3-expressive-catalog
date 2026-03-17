@@ -1,4 +1,4 @@
-<h1 align="center">Material 3 Expressive Catalog</h1>
+<h1 align="center">Material 3 Expressive Catalog </h1>
 
 <p align="center">
   <a href="https://opensource.org/licenses/Apache-2.0">
